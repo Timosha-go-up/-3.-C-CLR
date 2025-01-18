@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\bin\Debug\_3._2.Переменные__константы__литералы.exe.config
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\bin\Debug\_3._2.Переменные__константы__литералы.exe
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\bin\Debug\_3._2.Переменные__константы__литералы.pdb
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\obj\Debug\3.2. Переменные, константы, литералы.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\obj\Debug\3.2. Переменные, константы, литералы.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\obj\Debug\_3._2.Переменные__константы__литералы.exe
+C:\Users\Roman\source\repos\Модуль 3. Основы C# и CLR\3.2. Переменные, константы, литералы\obj\Debug\_3._2.Переменные__константы__литералы.pdb
