@@ -10,11 +10,28 @@ namespace _3._2.Переменные__константы__литералы
     {
         public static void Main(string[] args)
         {
-
-            string myName = "Roman";
+            //Console.Write("My name is\t");
+            //string MYName = Console.ReadLine();
+           
+            //Console.Write("My age is\t");
+            //string MyAge = Console.ReadLine();
             
+            //Console.Write("Do i have a pet\t");
+            //string MyPet = Console.ReadLine();
+            
+            //Console.WriteLine("My shoe size is\t");
+            //string MySizeShoue = Console.ReadLine();
 
-            Console.WriteLine(myName);
+            string MyName = "Roman";
+            byte MyAge = 39;
+            bool HaveIApet = true;
+            double MyShoeSize = 45;
+
+            Console.WriteLine("My name is " + MyName);
+            Console.WriteLine("MyAge " + MyAge);
+            Console.WriteLine("Do I have a pet? " + HaveIApet);
+            Console.WriteLine("My shoe size is " + MyShoeSize);
+
 
             Console.ReadKey();
         }
