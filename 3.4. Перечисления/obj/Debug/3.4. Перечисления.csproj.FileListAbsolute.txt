@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\bin\Debug\_3._4.Перечисления.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\bin\Debug\_3._4.Перечисления.exe
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\bin\Debug\_3._4.Перечисления.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\obj\Debug\3.4. Перечисления.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\obj\Debug\3.4. Перечисления.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\obj\Debug\_3._4.Перечисления.exe
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.4. Перечисления\obj\Debug\_3._4.Перечисления.pdb
