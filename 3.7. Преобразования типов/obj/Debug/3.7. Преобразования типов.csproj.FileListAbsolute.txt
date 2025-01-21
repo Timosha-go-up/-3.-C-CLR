@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\bin\Debug\_3._7.Преобразования_типов.exe.config
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\bin\Debug\_3._7.Преобразования_типов.exe
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\bin\Debug\_3._7.Преобразования_типов.pdb
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\obj\Debug\3.7. Преобразования типов.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\obj\Debug\3.7. Преобразования типов.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\obj\Debug\_3._7.Преобразования_типов.exe
+C:\Users\Roman\source\repos\Timosha-go-up\-3.-C-CLR\3.7. Преобразования типов\obj\Debug\_3._7.Преобразования_типов.pdb
